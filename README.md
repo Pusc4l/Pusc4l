@@ -21,8 +21,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Pascal's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pusc4l&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pusc4l&layout=compact&theme=dark)
+![Pascal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pusc4l&theme=dark)
 
 ---
 
