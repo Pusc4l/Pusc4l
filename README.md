@@ -21,7 +21,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Pascal's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pusc4l&theme=react-dark)
+![Pascal's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pusc4l&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pusc4l&layout=compact&theme=dark)
 
 ---
 
