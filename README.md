@@ -1,5 +1,4 @@
-# Hi there, I'm Pascal 👋 
-![Visitor Count](https://komarev.com/ghpvc/?username=Pusc4l&color=blueviolet&style=flat-square)
+# Hi there, I'm Pascal 👋 ![Visitor Count](https://komarev.com/ghpvc/?username=Pusc4l&color=blueviolet&style=flat-square)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&width=435&lines=Aspiring+Software+Developer;UI%2FUX+Enthusiast;Continuous+Learner)](https://git.io/typing-svg)
 
