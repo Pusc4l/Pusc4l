@@ -21,10 +21,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pusc4l&show_icons=true&theme=radial)
+![Pascal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pusc4l&show_icons=true&theme=radial)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pusc4l&layout=compact&theme=radial)
 
 ---
 
 ### 📫 How to reach me
-- **Email:** emailkamu@example.com
+- **Email:** muhammad.triarso.pascal@gmail.com
