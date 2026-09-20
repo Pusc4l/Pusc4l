@@ -1,4 +1,7 @@
-# Hi there, I'm Pascal 👋
+# Hi there, I'm Pascal 👋 
+![Visitor Count](https://komarev.com/ghpvc/?username=Pusc4l&color=blueviolet&style=flat-square)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&width=435&lines=Aspiring+Software+Developer;UI%2FUX+Enthusiast;Continuous+Learner)](https://git.io/typing-svg)
 
 - 🌱 **Currently learning:** HTML, CSS, JavaScript (Beginner), C++ (Beginner), C (Beginner), Python (Beginner), Linux (Beginner), Bash (Beginner), & SQL (Beginner)
 - 💬 **Ask me about:** UI/UX Design (Beginner)
@@ -22,6 +25,11 @@
 
 ### 📊 GitHub Stats
 ![Pascal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pusc4l&theme=dark)
+
+---
+
+### 💡 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
